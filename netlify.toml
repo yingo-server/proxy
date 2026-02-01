@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  to = "https://google.com:80/:splat"
+  status = 200
+  force = true
